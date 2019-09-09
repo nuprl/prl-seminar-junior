@@ -1,4 +1,4 @@
-# PRLSeminar,Junior
+# PRLSeminar, Junior
 
 Information, materials, and schedule. 
 
