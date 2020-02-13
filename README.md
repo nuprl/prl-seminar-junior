@@ -3,4 +3,9 @@
 Information, materials, and schedule. 
 
 To keep it simple, we will be using [Wiki](../../wiki).  
-Everything related to the Spring will be posted [here](../../wiki/Spring-2020).
+
+## Spring 2020
+
+Schedule: every Monday 9:30-10:30 am @ WVH 166/168.
+
+See [this page](../../wiki/Spring-2020) for details.
